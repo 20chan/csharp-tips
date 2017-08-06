@@ -4,13 +4,13 @@
 
 ## 키워드
 
-- [TypedReference](#TypedReference)
+- [TypedReference](#typedReference)
 - [__arglist](#__arglist)
 
 ## 신택스
 
-- [Null 병합 연산자](#Null-병합-연산자)
-- [Null 조건부 연산자](#Null-조건부-연산자)
+- [Null 병합 연산자](#null-병합-연산자)
+- [Null 조건부 연산자](#null-조건부-연산자)
 
 ## 언어 기능
 
